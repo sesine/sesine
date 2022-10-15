@@ -1,0 +1,6 @@
+- 👋 Sesine
+- 🖋 前端 Leader
+- 🌏 杭州
+- 📮 yesifeng(at)163.com
+- 🏷️ JavaScript CSS HTML 微信小程序 Vue.js jQuery
+- 🌠 [博客](https://blog.sesine.com) [站酷](http://sesine.zcool.com.cn/) [SegmentFault](https://segmentfault.com/u/sesine) [知乎](https://www.zhihu.com/people/sesine/) [微博](https://weibo.com/sesine/)
